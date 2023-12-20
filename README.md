@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋, I'm David | Software Developer & Java Enthusiast</h1>
 
 
 
@@ -8,6 +8,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=djgofficial&show_icons=true&locale=en&layout=compact" alt="djgofficial" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DJGofficial&show_icons=true&locale=en&layout=compact" alt="DJGofficial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djgofficial&" alt="djgofficial" /></p></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DJGofficial&" alt="DJGofficial" /></p></div>
